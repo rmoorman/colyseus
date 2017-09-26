@@ -37,7 +37,7 @@
     "@types/node": "^7.0.18",
     "@types/shortid": "0.0.29",
     "@types/uws": "^0.13.0",
-    "debug": "^2.6.8",
+    "debug": "^3.1.0",
     "fossil-delta": "^0.2.5",
     "ip": "^1.1.5",
     "memshared": "^0.9.14",
